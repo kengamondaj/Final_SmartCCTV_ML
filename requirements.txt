@@ -1,4 +1,4 @@
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.6.4
 opencv-python==4.1.1.26
 scikit-image==0.15.0
 scikit-learn==0.22.1
